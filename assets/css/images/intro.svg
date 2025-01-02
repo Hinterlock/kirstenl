@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000px" height="500px" viewBox="0 0 1000 500" zoomAndPan="disable" preserveAspectRatio="none">
+
+    <style type="text/css"><![CDATA[
+		line
+		{
+			stroke: rgba(255,255,255,0.05);
+			stroke-width: 20px;
+		}
+    ]]></style>
+
+	<rect x="0" y="0" width="1000" height="75" fill="rgba(183,47,31,1)" stroke="transparent"/>
+	<rect x="0" y="75" width="1000" height="75" fill="rgba(183,108,51,1)" stroke="transparent"/>
+	<rect x="0" y="150" width="1000" height="75" fill="rgba(183,159,31,1)" stroke="transparent"/>
+
+</svg>
