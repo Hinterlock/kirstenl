@@ -2996,7 +2996,7 @@ input, select, textarea {
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		min-height: 22.5em;
+		min-height: 10em;
 	}
 
 		body.is-ie .spotlights > section {
@@ -3064,11 +3064,11 @@ input, select, textarea {
 			}
 
 		.spotlights > section:nth-child(2) {
-			background-color: rgba(0, 0, 0, 0.05);
+			background-color: rgba(192, 107, 50, 0.33);
 		}
 
 		.spotlights > section:nth-child(3) {
-			background-color: rgba(0, 0, 0, 0.1);
+			background-color: rgba(192, 107, 50, 0.66);
 		}
 
 		.spotlights > section.inactive > .image:before,
@@ -3093,7 +3093,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 750px) {
 
 			.spotlights > section {
 				display: block;
@@ -3248,7 +3248,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #574335;
+			background-color: #963434;
 		}
 
 		.wrapper.style2-alt {
@@ -3877,7 +3877,7 @@ input, select, textarea {
 		background-image: url("images/spray_transparent.gif");
 		background-position: bottom right;
 		background-repeat: no-repeat;
-		background-size: 30% 30%;
+		background-size: 30%;
 	}
 
 		#intro p {
